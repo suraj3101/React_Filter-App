@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Filter-App/static/css/main.97053eec.css",
+    "main.js": "/React_Filter-App/static/js/main.6efb9618.js",
+    "index.html": "/React_Filter-App/index.html",
+    "main.97053eec.css.map": "/React_Filter-App/static/css/main.97053eec.css.map",
+    "main.6efb9618.js.map": "/React_Filter-App/static/js/main.6efb9618.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97053eec.css",
+    "static/js/main.6efb9618.js"
+  ]
+}
